@@ -1,0 +1,140 @@
+head {
+	float:left;
+	width:100%;
+	margin:0px;
+}
+body {
+	float:left;
+	width:100%;
+	margin:0px;
+	background-color:#f4f4f4;
+}
+.main {
+	float:left;
+	width:100%;
+	margin:0px;
+}
+.content {
+	float:left;
+	width:100%;
+}
+.header {
+	float:left;
+	width:100%;
+}
+.border-top {
+	float:left;
+	width:100%;
+	margin:0px;
+}
+.border-top img {
+	float:left;
+	width:100%;
+	height:8px;
+} 
+.header_box {
+	margin:0 auto;
+	width:90%;
+}
+.logo{
+	float:left;
+	width: 60%;
+	padding:45px 0px;
+
+}
+.logo a{
+	font-size: 50px;
+	margin:0px;
+	margin-left: 45px;
+	padding: 0px;
+	text-decoration: none;
+}
+.social_icon a img {
+	width:20px;
+	height:20px;
+}
+.cnt_detail {
+	float:right;
+	width:28%;
+	margin:38px 0px 20px 0px;
+}
+.icon_phone{
+	float:left;
+	width:100%;
+	padding:10px 10px;
+}
+.icon_phone img {
+	float:right;
+	height:30px;
+	width:8%;
+	padding:10px;
+}
+.icon_phone p{
+	float:right;
+	width:50%;
+	font-size:28px;
+	padding:0px;
+	margin:8px 0px;
+}
+.social_icon{
+	float:right;
+	width: 100%;
+	text-align:right;
+	padding-right: 30px;
+}
+.social_icon a img{
+	width: 30px;
+	height: 30px;
+}
+.menu-bar{
+	width:100%;
+	float:left;
+	height:50px;
+	background-color: #9E9E9E;
+}
+.menu-bar ul.menu{
+	width:85%;
+	list-style-type:none;
+	cursor:pointer;
+	margin:15px auto;
+}
+.menu-bar ul.menu li{
+	float:left;
+	color:white;
+	padding:0px 15px;
+	border-right:1px solid #fff;
+}
+.menu-bar ul.menu li a {
+	font-weight:100;
+	color:white;
+	text-decoration: none;
+	margin:0px 5px;
+	font-size:18px;
+	font-family: sans-serif;
+}
+.menu-bar ul.menu li a:hover{
+	color:#ffc000;
+}
+.menu-bar ul.menu li:hover{
+	border-right:1px solid #ffc000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
