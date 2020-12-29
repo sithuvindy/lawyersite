@@ -275,8 +275,17 @@ footer {
 .footer_text{
 	color:#fff;
 }
-
-
+/********************contact page css start*********************/
+.content{
+	float: left;
+	width:100%;
+}
+.contact_page{
+	margin:0 auto;
+	width:80%;
+	background: #8BC34A;
+	padding:20px;
+}
 
 
 
